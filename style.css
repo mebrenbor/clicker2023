@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(25, 0, 255);
+    display: flex;
+}
+
+.kaste{
+    background-color: rgb(148, 23, 231);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    width: 130px;
+    height: 390px;
+
+}
+.aplis{
+    background-color: rgb(0, 212, 124);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.aplis2{
+    background-color: rgb(255, 251, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.aplis3{
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: aquamarine;
+    display: flex;
+}
+
+.kaste {
+    background-color: dodgerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 20px;
+    width: 160px;
+    height: 400px;
+}
+
+.aplis {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
